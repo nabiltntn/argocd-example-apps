@@ -1,2 +1,3 @@
-service:
-  type: LoadBalancer
+replicaCount: 2
+#service:
+#  type: LoadBalancer
